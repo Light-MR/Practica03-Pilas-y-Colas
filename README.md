@@ -16,6 +16,7 @@ A simple labyrinth implementation using backtracking
  Ejecutar:
  * ant run
  
- ##Comentarios extra:
+ ##Comentarios extra
+ 
  El nivel de la practica fue complejo desde mi perspectiva, durante la la misma estaba pensado implementarla entre dos personas, pero debido
  a su complejidas y abstracción mi equipo terminó por sólo ser yo.
