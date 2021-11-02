@@ -19,5 +19,5 @@ A simple labyrinth implementation using backtracking
  ---
  ###Comentarios extra
  
- El nivel de la practica fue complejo desde mi perspectiva, durante la la misma estaba pensado implementarla entre dos personas, pero debido
- a su complejidas y abstracción mi equipo terminó por sólo ser yo.
+ El nivel de la practica fue complejo desde mi perspectiva, durante la la misma, estaba pensada en implementarse entre dos personas, pero debido
+ a su complejidad y abstracción mi equipo terminó por sólo ser yo :C.
