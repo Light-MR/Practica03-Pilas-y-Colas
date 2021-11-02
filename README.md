@@ -1,7 +1,8 @@
 # Practica03-Pilas-y-Colas
 Autor : Reyes Ramos Luz María. 
+
 A simple labyrinth implementation using backtracking
- ##Descripción General:
+ ## Descripción General:
  Aplicación de backtracking para la solución de un  laberinto simple.
  En donde para la implementación de backtracing se hizo uso de las siguientes estructuras:
  Stack, Queue, List.
@@ -17,7 +18,7 @@ A simple labyrinth implementation using backtracking
  - ant run
  
  ---
- Comentarios extra
+ ### Comentarios extra
  
  El nivel de la practica fue complejo desde mi perspectiva, durante la la misma, estaba pensada en implementarse entre dos personas, pero debido
  a su complejidad y abstracción mi equipo terminó por sólo ser yo :C.
