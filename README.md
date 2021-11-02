@@ -11,11 +11,12 @@ A simple labyrinth implementation using backtracking
  NullPointerException, IndexOutofBoundException etc.
  ## Compilacion y ejecución
  Compilar :
- * ant build
- * ant jar
+ - ant build
+ - ant jar
  Ejecutar:
- * ant run
+ - ant run
  
+ ---
  ##Comentarios extra
  
  El nivel de la practica fue complejo desde mi perspectiva, durante la la misma estaba pensado implementarla entre dos personas, pero debido
